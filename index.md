@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year MRes/Ph.D. student at LSE working both empirically and experimentally, and with a little bit of theory. I broadly focus on the organisation of work, and frequently find myself working with generative AI or studying its implications.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Organisational Economics, AI**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+**[July 2025]** I am visiting Berlin during July and Chicago during the first half of August. I would love to meet up, especially if you are working on generative AI.
 
 {% include_relative _includes/publications.md %}
 
