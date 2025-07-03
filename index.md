@@ -19,4 +19,3 @@ I am visiting **Berlin** during July and **Chicago** during the first half of Au
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
