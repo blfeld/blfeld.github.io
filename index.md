@@ -12,7 +12,7 @@ I am a second-year MRes/Ph.D. student at LSE working both empirically and experi
 
 ## News
 
-**[July 2025]** I am visiting Berlin during July and Chicago during the first half of August. I would love to meet up, especially if you are working on generative AI.
+**[July 2025]** I am visiting **Berlin** during July and **Chicago** during the first half of August. I would love to meet up, especially if you are working on generative AI -- whether as a researcher, developer, or user.
 
 {% include_relative _includes/publications.md %}
 
